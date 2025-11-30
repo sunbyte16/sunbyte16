@@ -48,7 +48,6 @@ Hi 👋, I'm 𝕊𝕦𝕟𝕚𝕝 𝕊𝕙𝕒𝕣𝕞𝕒
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sunbyte16&icon=0&color=0)](https://visitcount.itsvg.in)
 
